@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi, I'm Lakshay"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I'm a bioinformatics analyst at Brigham and Women's Hospital, where I work with atlas-scale single-cell and spatial -omics datasets to characterize autoimmune diseases. I'm fortunate to be advised by Yakir Reshef and Soumya Raychaudhuri. Previously in the Raychaudhuri lab, I have worked on a project to genotype HLA alleles from single-cell RNA-sequencing data, as well as efforts for scalable mapping of cell-state-dependent eQTLs. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I graduated from Johns Hopkins University in December 2022 with degrees in biophysics and mathematics, where I worked with James Berger on problems in single-molecule FRET data analysis. In my free time, I enjoy cooking Indian food, long-distance running and the New York Times Daily Crossword.  
+
+**I am applying to PhD programs in bioengineering and quantitative biology in Fall 2025.** I want to use the power of single-cell genomics to develop new treatments for autoimmune and neuropsychiatric diseases. Please see more in the Research tab above. 
 
 A data-driven personal website
 ======
