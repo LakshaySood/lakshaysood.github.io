@@ -11,7 +11,7 @@ I'm a bioinformatics analyst at Brigham and Women's Hospital, where I work with 
 
 I graduated from Johns Hopkins University in December 2022 with degrees in biophysics and mathematics, where I worked with James Berger on problems in single-molecule FRET data analysis. In my free time, I enjoy cooking Indian food, long-distance running and the New York Times Daily Crossword.  
 
-**I am applying to PhD programs in bioengineering and quantitative biology in Fall 2025.** I want to use the power of single-cell genomics to develop new treatments for autoimmune and neuropsychiatric diseases. Please see more in the Research tab above. 
+**I am applying to PhD programs in bioengineering and quantitative biology in Fall 2025.** I want to use the power of single-cell genomics to develop new treatments for autoimmune and neuropsychiatric diseases. Please contact me with any questions!  
 
 A data-driven personal website
 ======
